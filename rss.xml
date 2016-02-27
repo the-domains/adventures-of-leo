@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Adventures of Leo]]></title>
+        <description><![CDATA[Adventures of Leo]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 27 Feb 2016 21:50:20 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hi. I'm Leo.]]></title>
+            <description><![CDATA[<h1>Hi. I'm Leo.</h1>]]></description>
+            <link>undefinedhi-im-leo/index.html</link>
+            <guid isPermaLink="false">1a1898a7-9321-45cc-b1bc-2b3fead259f9</guid>
+            <pubDate>Sat, 27 Feb 2016 21:47:30 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
