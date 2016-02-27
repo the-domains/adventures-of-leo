@@ -1,14 +1,28 @@
-layout_spectrum: 1
-color:
-  saturation: 0.7107926
-  lightness: 0.07419899
-  brandStrength: 0.2074199
-  brandColors:
-    - '#FCFFFF'
-    - '#885B43'
-    - '#04060D'
-    - '#77889A'
-    - '#30425C'
-  rhythmicContrast: 0.7529511
-typography_spectrum: 0.5935919
 name: Adventures of Leo
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.5935919
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#eaeaea'
+    - '#a59999'
+    - '#564a47'
+    - '#ac6462'
+    - '#8b7d76'
+  brandStrength: 1
+  lightness: 0
+  saturation: 0.5
+  rhythmicContrast: 0.75
+purpose: []
