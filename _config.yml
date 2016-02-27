@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.7107926
+  lightness: 0.07419899
+  brandStrength: 0.2740304
+  brandColors:
+    - '#FCFFFF'
+    - '#885B43'
+    - '#04060D'
+    - '#77889A'
+    - '#30425C'
+  rhythmicContrast: 0.7529511
+typography_spectrum: 0.5935919
+name: Adventures of Leo
