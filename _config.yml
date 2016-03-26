@@ -1,7 +1,5 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+favicon: null
+name: Adventures of Leo
 opengraph:
   image: null
   type: null
@@ -18,23 +16,25 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 1
+purpose: []
+color:
+  saturation: 0.5
+  brandStrength: 1
+  lightness: 0
+  brandColors:
+    - '#06070C'
+    - '#C4B59C'
+    - '#776F6E'
+    - '#B4C6E9'
+    - '#54391F'
+  rhythmicContrast: 0.75
+typography_spectrum: 0.5935919
+layout_spectrum: 0.9873524
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 cta:
   bucket: null
   version: null
   domain: null
-color:
-  saturation: 0.5
-  brandStrength: 1
-  rhythmicContrast: 0.75
-  brandColors:
-    - '#eaeaea'
-    - '#a59999'
-    - '#564a47'
-    - '#ac6462'
-    - '#8b7d76'
-  lightness: 0
-purpose: []
-favicon: null
-name: Adventures of Leo
-typography_spectrum: 0.5935919
